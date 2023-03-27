@@ -1,7 +1,7 @@
 # Visualizing_4D_objects_in_3D
 Visualizing 4D objects in the 3D realm using Blender 3D
 
-This "4D Objects" Blender add-on is based on the "Add x,y,z Function Surface" part of the "Extra Object" add-on which comes standard with blender.
+This "4D Objects" Blender add-on is based on the "Add x,y,z Function Surface" part of the "Extra Objects" add-on which comes standard with blender.
 
 It allows you to create 4D objects based on math formulas for x,y,z,w you define and will immediately show you how the 4D object looks like in 3D when the w dimension is removed.
 
