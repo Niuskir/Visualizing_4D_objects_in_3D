@@ -9,7 +9,9 @@ When you have defined the 4D object correctly you can set any translation and/or
 
 Download the zip file add_mesh_4D_objects_visualize.zip to install this add-on in Blender the usual way. 
 
-The add-on works correctly for a 4D hypersphere (default in the add-on) and a 4D hypertorus (as defined in file Hypertorus_4D.py). 
+Copy the presets to C:\Users\"Your directory"\AppData\Roaming\Blender Foundation\Blender\3.5\scripts\presets\operator\mesh.primitive_xyzw_function_surface 
+
+The add-on has been tested to work correctly for a 4D hypersphere (default in the add-on) and a 4D hypertorus (as defined in file Hypertorus_4D.py). 
 
 Here's a Youtube video made completely in Blender using this add-on https://youtu.be/-uN1YjbK5no
 
